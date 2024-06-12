@@ -2,8 +2,8 @@ import { Navigation } from "@/components/Navigation";
 import "./globals.css";
 
 export const metadata = {
-  title: "Markus Eisl",
-  description: "NextJS Protfolio Page",
+  title: "Radiology Hub",
+  description: "NextJS Radiology Hub",
 };
 
 export default function RootLayout({ children }) {
