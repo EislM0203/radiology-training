@@ -56,9 +56,9 @@ export function Navigation() {
             <div className="flex flex-col items-center justify-center px-2 pt-2 pb-3 space-y-1">
               <Link
                 className="border-transparent text-gray-500 hover:text-indigo-600 inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium"
-                href="/lung"
+                href="/liver"
               >
-                Lung
+                Liver
               </Link>
               
             </div>
